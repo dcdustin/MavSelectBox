@@ -5,9 +5,9 @@ script: MavSelectBox.js
 
 description: MavSelectBox is a simple-to-use form select element replacement that allows for better customization.
 
-license: MIT-style
+license: MIT-style license.
 
-author: Dustin Hansen
+authors: Dustin Hansen
 
 docs: http://maveno.us/library/public/mavselectbox/
 
