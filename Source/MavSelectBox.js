@@ -60,7 +60,7 @@ var MavSelectBox = new Class({
 	selectedIndex: 0,
 	showing: false,
 	textSearch: '',
-	version: '0.5.5',
+	version: '0.5.6',
 
 	initialize: function(_options) {
 		this.boundShow = this.show.bind(this);
