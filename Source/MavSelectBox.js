@@ -1,5 +1,6 @@
 /*
 ---
+
 description: MavSelectBox is a simple-to-use form select element replacement that allows for better customization
 
 license: MIT-style license.
