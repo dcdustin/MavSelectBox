@@ -5,7 +5,7 @@ MavSelectBox is a simple-to-use form select replacement that allows for better c
 
 MavSelectBox mimics the GUI interactions of a normal select element as much as possible (the non-annoying anyway). This is done so as not to break with user expectations. Up and down arrows move the selection, tabbing to it and hitting alt+down shows the menu, tabbing to it and simply hitting up or down selects the next available option in that direction, focusing then start typing and the option that matches what you are typing is selected, enter selects, esc closes, and so on. 
 
-![Screenshot](http://github.com/dcdustin/mavselectbox/mavselectbox.jpg)
+![Screenshot](http://github.com/dcdustin/MavSelectBox/raw/master/mavselectbox.jpg)
 
 How to use
 ----------
