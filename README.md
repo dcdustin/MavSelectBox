@@ -27,11 +27,14 @@ How to use
 
 *JS*
 	#JS
-	<script type="text/javascript">
-		window.addEvent('domready', function() {
-			var my_select = new MavSelectBox('select_field');
-		});
-	</script>
+	var your_select = new MavSelectBox({
+		elem: $('another_id'),
+		alternate: true,
+		onSelect: function(_elem) {
+			// Do somethin' funky!
+	
+		}
+	});
 
 
 
