@@ -40,4 +40,4 @@ How to use
 Screenshots
 -----------
 
-![Screenshot](http://github.com/dcdustin/mavselectbox/mavselectbox.jpg)
+![Screenshot1](http://github.com/dcdustin/MavSelectBox/raw/master/mavselectbox.jpg)
