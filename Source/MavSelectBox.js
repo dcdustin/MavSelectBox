@@ -11,8 +11,8 @@ authors: Dustin Hansen
 
 docs: http://maveno.us/library/public/mavselectbox/
 
-requires:
-- core/1.2.4: [Class, Class.Extras, Event, Element.Event, Element,Style, Element.Dimensions, Selectors, JSON, Fx.Tween, Fx.Morph, Fx.Transitions, Request.HTML, Request.JSON]
+requires: 
+  core/1.2.4: '*'
 
 provides: [MavSelectBox]
 
