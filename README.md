@@ -1,5 +1,5 @@
 MavSelectBox
-===========
+============
 
 MavSelectBox is a simple-to-use form select replacement that allows for better customization. I had the need for this myself and all though there are a few out there that do a damn good job, none were exactly what i felt i needed. And as we all know, competition breeds innovation, right?
 
